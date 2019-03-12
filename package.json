@@ -41,6 +41,8 @@
     "typescript": "^3.0.1"
   },
   "resolutions": {
+    "@worldbrain/storex-graphql-schema/**/graphql": "^14.0.0",
+    "apollo-server/**/graphql": "^14.0.0",
     "graphql-yoga/**/graphql": "^14.0.0",
     "prisma-binding/**/graphql": "^14.0.0",
     "graphql-cli/**/graphql": "^14.0.0"
