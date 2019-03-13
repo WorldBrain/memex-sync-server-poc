@@ -6,6 +6,6 @@ export interface Storage {
     manager : StorageManager
 }
 
-interface StorageModules {
+export interface StorageModules {
     sharedSyncLog : SharedSyncLogStorage
 }
